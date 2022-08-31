@@ -1,0 +1,22 @@
+{
+  "name": "default-token-list",
+  "version": "1.0.0",
+  "description": "This NPM module and GitHub repo contains the default token list used in the CronaSwap interface.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartDev1990/default-token-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartDev1990/default-token-list/issues"
+  },
+  "homepage": "https://github.com/SmartDev1990/default-token-list#readme"
+}
