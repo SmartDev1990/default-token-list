@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Wrapped WDOGE",
+    "symbol": "WWDOGE",
+    "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+    "chainId": 2000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/icons/network/doge.png"
+  },
+  {
+      "name": "Rice Token",
+      "symbol": "RICE",
+      "address": "0x4Cf5C83c8b3ebB13121265bC34B91a8EFC1EB4eE",
+      "chainId": 2000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0x1eb697Cb6F457F6a65C682F7f7c65F9f2E622A34/logo.png"
+    },
+
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "chainId": 2000,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "chainId": 2000,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06/logo.png"
+    },
+    {
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+      "chainId": 2000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0x611a767AE0b231e82Da8711294A378F5639Af037/logo.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+      "chainId": 2000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/brise/0x9FD8100A416134587670ff55eE5798ba905E9245/logo.png"
+    }
+]
