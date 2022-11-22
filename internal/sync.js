@@ -11,7 +11,8 @@ const fs = require("fs");
 const { resolve } = require("path");
 
 const NAME = {
-  [ChainId.BRISE]: "cronos",
+  [ChainId.VELAS]: "velas",
+  [ChainId.VELAS_TESTNET]: "velas-testnet",
 };
 
 (async () => {

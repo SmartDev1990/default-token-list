@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Wrapped VELAS",
+    "symbol": "WVLX",
+    "address": "0x071DA4A38460bb14686C1D44d85A7BDad0d6BaC5",
+    "chainId": 111,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/VELAS_TESTNET/0x071DA4A38460bb14686C1D44d85A7BDad0d6BaC5/logo.png"
+  },
+  {
+    "name": "Tower Token",
+    "symbol": "TW",
+    "address": "0x6Aa8ef2D23232a7efa74d7D0d2d5c4dAdEf1BAB1",
+    "chainId": 111,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/VELAS_TESTNET/0x6Aa8ef2D23232a7efa74d7D0d2d5c4dAdEf1BAB1/logo.png"
+  },
+
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x1344531e3D3bCEAb05A102a75086A249A1d9cD36",
+    "chainId": 111,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/VELAS_TESTNET/0x1344531e3D3bCEAb05A102a75086A249A1d9cD36/logo.png"
+  }
+]

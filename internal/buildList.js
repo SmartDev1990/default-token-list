@@ -5,7 +5,7 @@ const brise = require("../assets/tokens/brise.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Riceswap Menu",
+    name: "TowerSwap Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
